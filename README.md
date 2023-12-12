@@ -1,2 +1,2 @@
-# CPSI-Net
+# RepCPSI
 Code will be uploaded as soon as the paper is accepted.
