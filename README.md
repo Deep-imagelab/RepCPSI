@@ -13,7 +13,7 @@ Chaoxiong Wu, Jiaojiao Li, Rui Song, Yunsong Li, Qian Du. [Paper](https://ieeexp
 
   @article{wu2023repcpsi,  
   title={RepCPSI: Coordinate-Preserving Proximity Spectral Interaction Network With Reparameterization for Lightweight Spectral Super-Resolution},  
-  author={Wu, Chaoxiong and Li, Jiaojiao and Song, Rui and Li, Yunsong and Du, Qian}, 
+  author={Wu, Chaoxiong and Li, Jiaojiao and Song, Rui and Li, Yunsong and Du, Qian},  
   journal={IEEE Transactions on Geoscience and Remote Sensing},  
   volume={61},  
   pages={1--13},  
